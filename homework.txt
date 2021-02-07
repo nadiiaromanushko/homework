@@ -6,3 +6,5 @@ Homework 4
 homework.txt уже на Git, вношу правки.
 
 Правки внесены и запушены через git push --set-upstream origin main
+
+master
