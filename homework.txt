@@ -5,3 +5,5 @@ Homework 4
 Q - выход
 
 123
+
+homework.txt уже на Git, вношу правки
