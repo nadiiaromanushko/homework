@@ -1,1 +1,32 @@
-test3
+users-Air:~ user$ ls
+Applications
+Desktop
+Documents
+Downloads
+IdeaProjects
+Library
+Movies
+Music
+OneDrive
+Pictures
+Public
+PycharmProjects
+romanushkoq@gmail.com Creative Cloud Files
+users-Air:~ user$ cd Desktop/
+users-Air:Desktop user$ ls
+1.pyc
+GitHub Desktop.app
+Skype.app
+Sublime Text.app
+Visual Studio Code.app
+hillel H:W
+hillel H:W.zip
+Перемещенные объекты.nosync
+users-Air:Desktop user$ cd hillel\ H\:W
+users-Air:hillel H:W user$ cd test
+users-Air:test user$ 
+users-Air:test user$  ls
+test.txt	test.txt.save	test2.txt
+users-Air:test user$ git init
+Reinitialized existing Git repository in /Users/user/Desktop/hillel H:W/test/.git/
+users-Air:test user$ 
