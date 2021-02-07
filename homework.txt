@@ -8,3 +8,5 @@ homework.txt уже на Git, вношу правки.
 Правки внесены и запушены через git push --set-upstream origin main
 
 master and main
+
+Создала 3 ветки на GitHub и удалила их
